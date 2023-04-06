@@ -1,0 +1,8 @@
+nav {
+  margin-left: 15px;
+}
+nav a {
+  text-decoration: none;
+  padding-right: 32px;
+  font-size: 26px;
+}
